@@ -212,4 +212,5 @@ void loop() {
   Serial.print(" ");
   Serial.println(lastposition);
   delay(2);
+  
 }
